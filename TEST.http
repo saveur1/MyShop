@@ -1,0 +1,11 @@
+# POST http://localhost:5000/api/v1/login
+# Content-Type: application/json
+
+# {
+#     "email":"bikorimana@gmail.com",
+#     "password":"saveur"
+# }
+
+
+
+GET http://localhost:5000/api/v1/profile

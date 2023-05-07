@@ -1,0 +1,438 @@
+[{
+  "_id": "6447d1cb73d6c54a81bab9f6",
+  "name": "ThinkPad Z13 (13” AMD) Laptop",
+  "price": 1344.85,
+  "description": "Breaking ranks with the standard black ThinkPad aesthetics, the Lenovo ThinkPad Z13 ($1,851.85 as tested) is an ultra-premium ultraportable laptop that's a real stunner. Black vegan leather and bronze accents give it a luxe look, and small touches—such as a reimagined TrackPoint and an excellent webcam—show that the polished design is more than skin-deep. But the real treat here is the AMD Ryzen-powered performance, with class-leading processing and graphics chops that will take you through a full day or more of work on its fantastic battery.",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "shopit/thinkpad2_lzliin",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1682427660/shopit/thinkpad2_lzliin.webp",
+      "_id": "6447d1cb73d6c54a81bab9f7"
+    },
+    {
+      "public_id": "shopit/thinkpadz13_riypww",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1682427595/shopit/thinkpadz13_riypww.webp",
+      "_id": "6447d1cb73d6c54a81bab9f8"
+    }
+  ],
+  "category": "Electronics",
+  "seller": "Lenovo",
+  "stock": 20,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "__v": 5
+},{
+  "_id": "6447d6c3fee8ea79f61ebded",
+  "name": "Amazon Kindle (2022 Release)",
+  "price": 99.99,
+  "description": "The Kindle is Amazon's most affordable ebook reader, and the 2022 model is a strong upgrade over the 2019 version thanks to its much sharper screen, additional storage, and longer battery life. Starting at $99.99, the standard Kindle is $40 less than the Paperwhite, and this latest refresh brings the two closer to parity than ever.",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "shopit/nytttzevlnzjoi71ydze",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683387941/shopit/nytttzevlnzjoi71ydze.jpg",
+      "_id":  "64567626389189f4d4f284de"
+    }
+  ],
+  "category": "Electronics",
+  "seller": "Amazon",
+  "stock": -4811,
+  "numberOfReviews": 1,
+  "reviews": [
+    {
+      "name": "Ingabire",
+      "user": "644a35afdf4ade3b7c72fd33",
+      "rating": 5,
+      "comment": "Awesome product you will like it!  I mostly like reading using kindle at night it is super cool!",
+      "_id":  "645524fd91fdb004a6351a41"
+    }
+  ],
+ 
+  "__v": 1
+},{
+  "_id": "644a6c61532845bf96f34b00",
+  "name": "DC COMICS MUSCLE CHEST ROBIN ARKHAM MENS COSTUME",
+  "price": 99.99,
+  "description": "Team up with Batman and save the city of Gotham this Halloween when you pick up our Muscle Chest Robin Arkham Mens Costume! Walk into the party donning this elite quality Robin costume, and you'll be making friends all night long. With your purchase, you will receive a muscle padded red jumpsuit with attached green boot tops, a molded yellow belt, a yellow and black hooded cape, and a matching eye mask. Buy your Robin costume today, and go take down the Joker and Harley Quinn this Halloween!",
+  "ratings": 4,
+  "images": [
+    {
+      "public_id": "shopit/batman_ovpqvs",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1682598737/shopit/batman_ovpqvs.webp",
+      "_id": "644a6c61532845bf96f34b01"
+    }
+  ],
+  "category": "Clothes/Shoes",
+  "seller": "Costume",
+  "stock": 9,
+  "numberOfReviews": 0,
+  "reviews": [],
+  "user": "64494a4e421c67f2ffc73963",
+ 
+  "__v": 0
+},{
+  "_id": "6450f65b0d70b5d9b267a16f",
+  "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+  "price": 45.89,
+  "description": "Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+  "ratings": 1,
+  "images": [
+    {
+      "public_id": "shopit/ca9tixefjcfdjm8r8ius",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683388108/shopit/ca9tixefjcfdjm8r8ius.jpg",
+      "_id": "645676cd3cfb925c04cb6bac"
+    },
+    {
+      "public_id": "shopit/krfjqhbtkuc3yd9tq7jb",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683388109/shopit/krfjqhbtkuc3yd9tq7jb.jpg",
+      "_id": "645676cd3cfb925c04cb6bad"
+    }
+  ],
+  "category": "Electronics",
+  "seller": "Ebay",
+  "stock": 50,
+  "numberOfReviews": 1,
+  "reviews": [
+    {
+      "name": "Mugisha Kevine",
+      "user": "644a4c4900842847fa518caa",
+      "rating": 1,
+      "comment": "I don't like how things looks here it have no picture can you please improve?"
+    }
+  ],
+  "user": "64494a4e421c67f2ffc73963",
+  
+  "__v": 1
+},{
+  "name": "CAN USB FD Adapter (GC-CAN-USB-FD)",
+  "price": 315,
+  "description": "Monitor a CAN network, write a CAN program and communicate with industrial, medical, automotive or other CAN based device. Connect CAN FD and CAN networks to a computer via USB with the CAN USB FD adapter.",
+  "ratings": 1.65,
+  "images": [
+    {
+      "public_id": "shopit/ot7pszxrjvhhwo9y3gdp",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474725/shopit/ot7pszxrjvhhwo9y3gdp.jpg"
+    },
+    {
+      "public_id": "shopit/xdsm1kzb5co5vi2gigxv",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474727/shopit/xdsm1kzb5co5vi2gigxv.jpg"
+    },
+    {
+      "public_id": "shopit/fa5xf9vhmiv7nir93zuo",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474727/shopit/fa5xf9vhmiv7nir93zuo.jpg"
+    }
+  ],
+  "category": "Electronics",
+  "seller": "Amazon",
+  "stock": 0,
+  "numberOfReviews": 2,
+  "reviews": [],
+  "user": "64494a4e421c67f2ffc73963",
+ 
+  "__v": 0
+},{
+  "name": "CHARMOUNT Full Motion TV Wall Mount Swivel",
+  "price": 26.99,
+  "description": "CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3). CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3) CHARMOUNT TV MOUNT UNIVERSAL DESIGN - Has your TV been received? Tilted TV wall mount is for 26 - 55 TVs weight up to 88lbs 40 kg. Our tilt TV mount has a compatible faceplate that fits VESA 75X75mm (3x3).",
+  "ratings": 3.5,
+  "images": [
+    {
+      "public_id": "shopit/bxyi5kqp13jniobvfili",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474911/shopit/bxyi5kqp13jniobvfili.jpg",
+      "_id": "6457c9e20d905a754afd4ccc"
+    },
+    {
+      "public_id": "shopit/nvssfphdvlnajtdzzt93",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474911/shopit/nvssfphdvlnajtdzzt93.jpg"
+      
+    },
+    {
+      "public_id": "shopit/eiex4sus4dqgqnkcmtmw",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474912/shopit/eiex4sus4dqgqnkcmtmw.jpg"
+      
+    },
+    {
+      "public_id": "shopit/vavcu6t8tlgy2kznrh3o",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683474913/shopit/vavcu6t8tlgy2kznrh3o.jpg"
+      
+    }
+  ],
+  "category": "Electronics",
+  "seller": "Amazon",
+  "stock": 1,
+  "numberOfReviews": 12,
+  "reviews": [],
+  "user":"64494a4e421c67f2ffc73963",
+
+  "__v": 0
+},{
+  "name": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+  "price": 299,
+  "description": "What happens when you clear away the noisy distractions of the world? Concentration goes to the next level. You get deeper into your music, your work, or whatever you want to focus on. That’s the power of Bose QuietComfort 35 wireless headphones II. Put them on and get closer to what you’re most passionate about. And that’s just the beginning. QuietComfort 35 wireless headphones II are now enabled with Bose AR",
+  "ratings": 4.5,
+  "images": [
+    {
+      "public_id": "shopit/kl09ihdaatagmqmivcux",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475188/shopit/kl09ihdaatagmqmivcux.jpg"
+      
+    },
+    {
+      "public_id": "shopit/agtiyrt3ialmxmwi9t9p",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475189/shopit/agtiyrt3ialmxmwi9t9p.jpg"
+      
+    },
+    {
+      "public_id": "shopit/xwqbtwwfqtfska7jls4s",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475190/shopit/xwqbtwwfqtfska7jls4s.jpg"
+     
+    },
+    {
+      "public_id": "shopit/ogp5gqefg2jvvmuliocv",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475191/shopit/ogp5gqefg2jvvmuliocv.jpg"
+     
+    },
+    {
+      "public_id": "shopit/ryet0pv3nsqecppqylir",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475192/shopit/ryet0pv3nsqecppqylir.jpg"
+      
+    }
+  ],
+  "category": "Headphones",
+  "seller": "Amazon",
+  "stock": 11,
+  "numberOfReviews": 112,
+  "reviews": [],
+  "user":"64494a4e421c67f2ffc73963",
+
+  "__v": 0
+},{
+  
+  "name": "Cable Boom Microphone - Volume Control for Playstation PS4 or Xbox",
+  "price": 27.99,
+  "description": "DESIGN INFO - 3.5mm male to 2.5mm male audio cable adapter with Upgraded Flexible, Detachable Boom Mic which also enables rotary Volume Control and Mute Switch. SteelFlex Arm for perfect microphone positioning. INPUT COMPATIBILITY - Devices supporting 3.5mm audio output such as gaming PS4 / Xbox One controller, PC, Laptop, iPhone and Android Phone.",
+  "ratings": 4.1,
+  "images": [
+    {
+      "public_id": "shopit/z8axxed8xwkmlyz8wosl",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475503/shopit/z8axxed8xwkmlyz8wosl.jpg"
+    
+    },
+    {
+      "public_id": "shopit/btx2blixmvjywdr6z7jf",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475504/shopit/btx2blixmvjywdr6z7jf.jpg"
+     
+    },
+    {
+      "public_id": "shopit/oyjp78enhhjeme3k5z0k",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475504/shopit/oyjp78enhhjeme3k5z0k.jpg"
+    
+    },
+    {
+      "public_id": "shopit/m6gayzaaex5fxezeuslh",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475505/shopit/m6gayzaaex5fxezeuslh.jpg"
+    
+    },
+    {
+      "public_id": "shopit/uv7x5ljkzjlqre5rmrqt",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475506/shopit/uv7x5ljkzjlqre5rmrqt.jpg"
+    
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 1123,
+  "numberOfReviews": 6,
+  "reviews": [],
+  "user":"64494a4e421c67f2ffc73963",
+ 
+  "__v": 0
+},{
+  
+  "name": "Nikon D3500 W/ AF-P DX NIKKOR 18-55mm f/3.5-5.6G VR Black",
+  "price": 496.95,
+  "description": "You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+  "ratings": 4.7,
+  "images": [
+    {
+      "public_id": "shopit/icybgyifkrbrm9uwa1rz",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475737/shopit/icybgyifkrbrm9uwa1rz.jpg"
+     
+    },
+    {
+      "public_id": "shopit/cplcytn12w2rogfvrlyh",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475737/shopit/cplcytn12w2rogfvrlyh.jpg"
+     
+    },
+    {
+      "public_id": "shopit/ekoeulmykb5nx4pv6hk4",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475738/shopit/ekoeulmykb5nx4pv6hk4.jpg"
+     
+    },
+    {
+      "public_id": "shopit/ga2fuea9vhratpyqfk7e",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475740/shopit/ga2fuea9vhratpyqfk7e.jpg"
+      
+    }
+  ],
+  "category": "Cameras",
+  "seller": "Amazon",
+  "stock": 131,
+  "numberOfReviews": 222,
+  "reviews": [],
+  "user": "64494a4e421c67f2ffc73963",
+  
+  "__v": 0
+},{
+  
+  "name": "Apple MacBook Air (13-inch, 8GB RAM, 256GB SSD Storage) - Space Gray",
+  "price": 949.99,
+  "description": "Stunning 13.3-inch Retina display with True Tone technology, Backlit Magic Keyboard and Touch ID, Tenth-generation, Intel Core i3 processor, Intel Iris Plus Graphics, Fast SSD storage, 8GB of memory, Stereo speakers with wider stereo sound",
+  "ratings": 4.9,
+  "images": [
+    {
+      "public_id": "shopit/rpmvrojkun2akt7upapj",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475954/shopit/rpmvrojkun2akt7upapj.jpg"
+      
+    },
+    {
+      "public_id": "shopit/r4u65gm3lbpcrrot3kor",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475955/shopit/r4u65gm3lbpcrrot3kor.jpg"
+     
+    },
+    {
+      "public_id": "shopit/tscfdchg6fmahxsowtsm",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475956/shopit/tscfdchg6fmahxsowtsm.jpg"
+
+    },
+    {
+      "public_id": "shopit/c5zus0hsdqoshfogkmln",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475957/shopit/c5zus0hsdqoshfogkmln.jpg"
+    },
+    {
+      "public_id": "shopit/spaybichkqbomz1sj4ao",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683475959/shopit/spaybichkqbomz1sj4ao.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Amazon",
+  "stock": 0,
+  "numberOfReviews": 56,
+  "reviews": [],
+  "user":  "64494a4e421c67f2ffc73963",
+ 
+  "__v": 0
+},{
+ 
+  "name": "Kauffman Orchards Homegrown McIntosh Apples",
+  "price": 2.75,
+  "description": "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
+  "ratings": 5,
+  "images": [
+    {
+      "public_id": "shopit/ooul50i2nsthwprvanf3",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683476182/shopit/ooul50i2nsthwprvanf3.jpg"
+     
+    },
+    {
+      "public_id": "shopit/ojmcru2sidlgrlvt9wkq",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683476185/shopit/ojmcru2sidlgrlvt9wkq.jpg"
+      
+    },
+    {
+      "public_id": "shopit/ddi8coznzdcuafe9mwlx",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683476190/shopit/ddi8coznzdcuafe9mwlx.jpg"
+      
+    },
+    {
+      "public_id": "shopit/ivei8wssmylkoqkhp5ts",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683476206/shopit/ivei8wssmylkoqkhp5ts.jpg"
+      
+    },
+    {
+      "public_id": "shopit/w15si25q034mrzuit0p4",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683476210/shopit/w15si25q034mrzuit0p4.jpg"
+     
+    }
+  ],
+  "category": "Food",
+  "seller": "Kauffman's Fruit Farm & Market",
+  "stock": 500,
+  "numberOfReviews": 1,
+  "reviews": [],
+  "user":  "64494a4e421c67f2ffc73963",
+ 
+  "__v": 0
+},{
+ 
+  "name": "Apple AirPods (2nd Generation)",
+  "price": 20,
+  "description": "Apple AirPods (2nd Generation) Wireless Earbuds with Lightning Charging Case Included. Over 24 Hours of Battery Life, Effortless Setup. Bluetooth Headphones for iPhone",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "shopit/jaaqnnxgr7nmqyi3m0xw",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683378195/shopit/jaaqnnxgr7nmqyi3m0xw.jpg"
+      
+    },
+    {
+      "public_id": "shopit/uyfrftvdcumz2tb8lyov",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683378196/shopit/uyfrftvdcumz2tb8lyov.jpg"
+     
+    },
+    {
+      "public_id": "shopit/l76ebjxwjwez7i5eeksp",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683378197/shopit/l76ebjxwjwez7i5eeksp.jpg"
+      
+    },
+    {
+      "public_id": "shopit/xzptywwspb4iwnoshocf",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683378198/shopit/xzptywwspb4iwnoshocf.jpg"
+     
+    },
+    {
+      "public_id": "shopit/yfir2xmv3f5inha2njmu",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683378199/shopit/yfir2xmv3f5inha2njmu.webp"
+      
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Amazon",
+  "stock": 5,
+  "numberOfReviews": 0,
+  "user": "644a35afdf4ade3b7c72fd33",
+  "reviews": [],
+
+  "__v": 0
+},{
+  
+  "name": "Smartshell (Obsidian/Obsidian/SweaterGrey)",
+  "price": 23,
+  "description": "Speck Products MacBook Pro 13” M2 (2022) Smartshell (Obsidian/Obsidian/SweaterGrey)",
+  "ratings": 0,
+  "images": [
+    {
+      "public_id": "shopit/rkksufndo4gxexhswe4k",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683379609/shopit/rkksufndo4gxexhswe4k.jpg"
+     
+    },
+    {
+      "public_id": "shopit/hgwqnmohyuhn5fffqjmh",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683379610/shopit/hgwqnmohyuhn5fffqjmh.jpg"
+     
+    },
+    {
+      "public_id": "shopit/tpsv6seie5lrhq7l8oov",
+      "url": "https://res.cloudinary.com/dnqhrr6jk/image/upload/v1683379612/shopit/tpsv6seie5lrhq7l8oov.jpg"
+     
+    }
+  ],
+  "category": "Accessories",
+  "seller": "MacBook",
+  "stock": 1,
+  "numberOfReviews": 0,
+  "user":  "644a35afdf4ade3b7c72fd33",
+  "reviews": [],
+  
+  "__v": 0
+}]

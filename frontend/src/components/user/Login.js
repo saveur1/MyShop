@@ -1,0 +1,85 @@
+import React, { Fragment,useState,useEffect } from 'react'
+import { useDispatch,useSelector } from 'react-redux';
+import { loginUser } from '../../actions/userActions';
+import { toast } from 'react-toastify';
+import { clearErrors } from '../../actions/productActions';
+import { useNavigate,Link,useLocation } from 'react-router-dom';
+import MetaData from '../layout/MetaData';
+import Loader from '../layout/Loader';
+
+const Login = () => {
+    const [email,setEmail]=useState("");
+    const [password,setPassword]=useState("");
+    const dispatch =useDispatch();
+    const navigate=useNavigate();
+    const location = useLocation();
+    const redirect = location.search ? "/"+location.search.split("=")[1]:"/";
+
+    const {error,isAuthenticated,loading}=useSelector((state)=>state.auth);
+
+    useEffect(()=>{
+        if(isAuthenticated){
+            navigate(redirect);
+        }
+        if(error){
+            toast.error(error);
+            dispatch(clearErrors());
+        }
+    },[dispatch,error,isAuthenticated,navigate,redirect])
+
+    const handleLogin=(e)=>{
+        e.preventDefault();
+        dispatch(loginUser(email,password));
+    }
+  return (
+    <Fragment>
+        <MetaData title="Login"/>
+        {loading ? (<Loader />):(
+            <div className="row wrapper mt-5"> 
+                <div className="col-10 col-lg-5">
+                <form className="shadow-lg" method="POST" onSubmit={handleLogin}>
+                    <h1 className="mb-3">Login</h1>
+                    <div className="form-group">
+                    <label htmlFor="email_field">Email</label>
+                    <input
+                        type="email"
+                        id="email_field"
+                        className="form-control"
+                        value={email}
+                        required
+                        onChange={(event)=>setEmail(event.target.value)}
+                    />
+                    </div>
+        
+                    <div className="form-group">
+                    <label htmlFor="password_field">Password</label>
+                    <input
+                        type="password"
+                        id="password_field"
+                        className="form-control"
+                        value={password}
+                        required
+                        onChange={(event)=>setPassword(event.target.value)}
+                    />
+                    </div>
+
+                    <Link to="/password/forgot" className="float-right mb-4">Forgot Password?</Link>
+        
+                    <button
+                    id="login_button"
+                    type="submit"
+                    className="btn btn-block py-3"
+                    >
+                    LOGIN
+                    </button>
+
+                    <Link to="/register" className="float-right mt-3">New User?</Link>
+                </form>
+                </div>
+            </div>
+        )}
+    </Fragment>
+  )
+}
+
+export default Login

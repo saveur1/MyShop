@@ -8,7 +8,7 @@
     "dev": "export NODE_ENV=DEVELOPMENT && nodemon backend/server.js",
     "prod": "export NODE_ENV=PRODUCTION && nodemon backend/server.js",
     "seeder": "node backend/utils/seeder.js",
-    "heruku-postbuild":"NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
+    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "keywords": [],
   "author": "Bikorimana Saveur",

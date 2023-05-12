@@ -9,11 +9,11 @@ import CheckOutSteps from './CheckOutSteps';
 const Shipping = () => {
     const { shippingInfo } = useSelector(state=>state.cart);
     
-    const [ address,setAddress ] = React.useState(shippingInfo.address);
-    const [ city,setCity ] =  React.useState(shippingInfo.city);
-    const [ phone,setPhone ] = React.useState(shippingInfo.phone);
-    const [ postalCode,setPostalCode ] = React.useState(shippingInfo.postalCode);
-    const [ country,setCountry ] = React.useState(shippingInfo.country);
+    const [ address,setAddress ] = React.useState(shippingInfo ? shippingInfo.address : "");
+    const [ city,setCity ] =  React.useState(shippingInfo ? shippingInfo.city : "");
+    const [ phone,setPhone ] = React.useState(shippingInfo ? shippingInfo.phone : "");
+    const [ postalCode,setPostalCode ] = React.useState(shippingInfo ? shippingInfo.postalCode : "");
+    const [ country,setCountry ] = React.useState(shippingInfo ? shippingInfo.country : "");
 
     const dispatch = useDispatch(); 
     const navigate = useNavigate();

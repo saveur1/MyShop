@@ -40,7 +40,7 @@ export const fetchLoggedOrders = ()=>async(dispatch)=>{
         dispatch({
             type:MY_ORDER_SUCCESS,
             payload:data.orders
-        })
+        });
     } catch (error) {
         dispatch({
             type:MY_ORDER_FAIL,
